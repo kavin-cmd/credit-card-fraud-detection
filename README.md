@@ -23,6 +23,9 @@ This repository contains the source code and resources for a credit card fraud d
 Clone the repository:
    git clone https://github.com/kavin-cmd/credit-card-fraud-detection.git
 
+Run the preprocess.ipynb followed by deploy.ipynb
+
+
 ### Contributing
 Contributions are welcome! Please follow the contribution guidelines to contribute to this project.
 
@@ -30,7 +33,7 @@ Contributions are welcome! Please follow the contribution guidelines to contribu
 This project is licensed under the MIT License.
 
 ### Acknowledgements
-The dataset used in this project is from Kaggle and can be found here.
+The dataset used in this project is from Kaggle 
 
 ### Contact
 For any inquiries, please contact [Kavin Parikh] at [kpk1611@gmail.com].
